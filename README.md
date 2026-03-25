@@ -51,3 +51,5 @@ Sekundærmålgruppen er privatpersoner som reiser ofte og ønsker en rask oversi
 \*Hver side må inneholde full CRUD-funksjonalitet mot API.
 
 Vi oppdatere README etter hvert som prosjektet utvikler seg 🎓
+
+Dette er test!
